@@ -1,0 +1,64 @@
+.container
+  width 138px
+  display flex
+  align-items center
+  justify-content space-between
+  position relative
+  min-width 56px
+  height 36px
+  border-radius 18px
+  background-color #fafafa
+  box-shadow 0 8px 8px 0 rgba(0, 0, 0, 0.24), 0 0 8px 0 rgba(0, 0, 0, 0.12)
+  text-align center
+  user-select none
+
+.containerMobile
+  composes container
+  justify-content center
+  width 100%
+  border-radius 0
+  background-color #546e7a
+  box-shadow none
+  height 24px
+
+.button
+  position relative
+  width 36px
+  height 36px
+  border-radius 50%
+  background-color transparent
+  color #607d8b
+  font-size 10px
+  cursor pointer
+  outline none
+
+  &[disabled]
+    opacity 0.5
+
+  &hover
+  &focus
+    background-color rgba(83, 109, 254, 0.08)
+    color #607d8b
+
+  &[disabled]:hover
+    background-color transparent
+
+.counter
+  display inline-block
+  margin 0 12px
+  font-weight 500
+  font-size 12px
+  line-height 14px
+  letter-spacing 0.5px
+
+  .curSlide
+    color #607d8b
+
+  .curSlideMobile
+    color #fff
+
+  .sumSlide
+    color #536dfe
+
+  .sumSlideMobile
+    color #8c9eff

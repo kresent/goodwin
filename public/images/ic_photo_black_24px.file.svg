@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="152px" height="160px" viewBox="0 0 152 160" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_photo_black_24px</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M157.5,142.5 L157.5,37.5 C157.5,29.25 150.75,22.5 142.5,22.5 L37.5,22.5 C29.25,22.5 22.5,29.25 22.5,37.5 L22.5,142.5 C22.5,150.75 29.25,157.5 37.5,157.5 L142.5,157.5 C150.75,157.5 157.5,150.75 157.5,142.5 L157.5,142.5 Z M63.75,101.25 L82.5,123.825 L108.75,90 L142.5,135 L37.5,135 L63.75,101.25 L63.75,101.25 Z" id="path-1"></path>
+        <filter x="-17.8%" y="-11.9%" width="135.6%" height="135.6%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="8" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.325490196   0 0 0 0 0.42745098   0 0 0 0 0.996078431  0 0 0 0.120612545 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter2" in2="SourceAlpha" operator="out" result="shadowBlurOuter2"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.325490196   0 0 0 0 0.42745098   0 0 0 0 0.996078431  0 0 0 0.0853713768 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="013_ff_modals-copy-2" transform="translate(-285.000000, -266.000000)">
+            <g id="photo_group" transform="translate(108.000000, 152.000000)">
+                <g id="photos">
+                    <g id="slider">
+                        <g id="ic_photo_black_24px" transform="translate(163.000000, 100.000000)">
+                            <g id="Group">
+                                <polygon id="Shape" points="0 0 180 0 180 180 0 180"></polygon>
+                                <g id="Shape">
+                                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                                    <use fill-opacity="0.699473505" fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

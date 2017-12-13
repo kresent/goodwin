@@ -1,0 +1,10 @@
+export const SET_SUBMENU = 'SET_SUBMENU';
+export const TOGGLE_MODAL = 'TOGGLE_MODAL';
+export const TOGGLE_AUTH_MODAL = 'TOGGLE_AUTH_MODAL';
+export const SET_MAP_AS_ENTRY_POINT = 'SET_MAP_AS_ENTRY_POINT';
+export const TOGGLE_REQUEST_MODAL = 'TOGGLE_REQUEST_MODAL';
+
+export const SUB_MENU_TYPES = {
+  MAP: 'MAP',
+  LIST: 'LIST',
+};

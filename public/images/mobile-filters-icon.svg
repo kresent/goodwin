@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="34px" height="34px" viewBox="0 0 34 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 13 Copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="22.2572929%" y1="9.97458071%" x2="78.7341716%" y2="90.9169726%" id="linearGradient-1">
+            <stop stop-color="#536DFE" stop-opacity="0.0359205163" offset="0%"></stop>
+            <stop stop-color="#536DFE" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="iPhone-7-Copy-9" transform="translate(-328.000000, -70.000000)">
+            <g id="Group" transform="translate(0.000000, 65.000000)">
+                <g id="Group-13-Copy" transform="translate(323.000000, 0.000000)">
+                    <g id="Group-7-Copy" transform="translate(5.000000, 5.000000)">
+                        <rect id="filter_conteiner-copy" stroke="url(#linearGradient-1)" stroke-width="0.5" x="0.25" y="0.25" width="33.5" height="33.5" rx="16.75"></rect>
+                        <g id="filter_icon" transform="translate(5.000000, 5.000000)">
+                            <rect id="24px_conteiner" fill-opacity="0" fill="#D8D8D8" x="0" y="0" width="24" height="24"></rect>
+                            <path d="M5.77777778,4 L5.77777778,12 L4,12 L4,13.7777778 L5.77777778,13.7777778 L5.77777778,20 L7.55555556,20 L7.55555556,13.7777778 L9.33333333,13.7777778 L9.33333333,12 L7.55555556,12 L7.55555556,4 M11.1111111,4 L11.1111111,8.44444444 L9.33333333,8.44444444 L9.33333333,10.2222222 L11.1111111,10.2222222 L11.1111111,20 L12.8888889,20 L12.8888889,10.2222222 L14.6666667,10.2222222 L14.6666667,8.44444444 L12.8888889,8.44444444 L12.8888889,4 M16.4444444,4 L16.4444444,13.7777778 L14.6666667,13.7777778 L14.6666667,15.5555556 L16.4444444,15.5555556 L16.4444444,20 L18.2222222,20 L18.2222222,15.5555556 L20,15.5555556 L20,13.7777778 L18.2222222,13.7777778 L18.2222222,4" id="Shape" fill="#536DFE"></path>
+                        </g>
+                    </g>
+                    <rect id="Rectangle-6" fill-opacity="0" fill="#D8D8D8" x="0" y="0" width="44" height="44"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

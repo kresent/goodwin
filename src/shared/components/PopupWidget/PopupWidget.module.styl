@@ -1,0 +1,34 @@
+.wrapper
+  height 100%
+
+.content
+  position absolute
+  padding 0
+  border 0
+  background-color transparent
+  outline none
+  transform scale3d(0.8, 0.8, 0.8)
+  opacity 0
+  transition transform 0.3s, opacity 0.3s
+  &.contentAfterOpen
+    transform scale3d(1, 1, 1)
+    opacity 1
+  &.contentBeforeClose
+    transform scale3d(0.8, 0.8, 0.8)
+    opacity 0
+
+.overlay
+  z-index 16777271
+  position absolute
+  top 0
+  left 0
+  width 100%
+  height 100%
+  background-color rgba(96, 125, 139, 0.27)
+  opacity 0
+  transition opacity 0.3s
+  overflow hidden
+  &.overlayAfterOpen
+    opacity 1
+  &.overlayBeforeClose
+    opacity 0

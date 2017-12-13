@@ -1,0 +1,15 @@
+.slide-appear
+.slide-enter
+  transform translate3d(100%, 0, 0)
+
+.slide-appear-active
+.slide-enter-active
+  transition transform .2s linear
+  transform translate3d(0, 0, 0)
+
+.slide-exit
+  transition transform .2s linear
+  transform translate3d(0, 0, 0)
+
+.slide-exit-active
+  transform translate3d(100%, 0, 0)
